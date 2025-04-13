@@ -88,4 +88,4 @@ We encourage you to use free generative AI tools to create your own personalized
 
 ---
 
-Sample Document: [8.5G MCS FR.pdf](./docs/8.5G_MCS_FR.pdf)  
+Sample Document: [8.5G MCS FR.pdf](./Sample_08.5GMCSFR.pdf)  
